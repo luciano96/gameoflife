@@ -1,0 +1,25 @@
+.Container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.Buttons {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+}
+
+.button {
+  margin: 5px;
+}
+.gridDiv {
+  display: flex;
+  flex-direction: row;
+}
+.addButtons {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 5%;
+}

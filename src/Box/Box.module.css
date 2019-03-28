@@ -1,0 +1,15 @@
+.box {
+  width: 14px;
+  min-width: 14px;
+  height: 14px;
+  border: 1px solid black;
+  margin: 0px -1px;
+}
+
+.off {
+  background-color: #00a2aa;
+}
+
+.on {
+  background-color: rgb(7, 31, 48);
+}

@@ -1,0 +1,15 @@
+.grids {
+  box-shadow: 0px 0px 20px rgb(131, 192, 207);
+  display: flex;
+  width: min-content;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0px;
+  line-height: 0px;
+}
+
+.Row {
+  display: flex;
+  flex-direction: row;
+}
